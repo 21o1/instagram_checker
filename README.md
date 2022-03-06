@@ -3,11 +3,11 @@
 
 // linux:
 
-1- git clone https://github.com/3r0-r/IG-CHECKER.git
+1- git clone https://github.com/3r0-r/instagram_checker.git
 
 2- cd 'file path'
 
-2- python IG_CHECKER.py
+2- python insta_checker.py
 
 // windows:
 
@@ -19,4 +19,4 @@
 
 4-open cmd
 
-5-python IG_CHECEKR
+5-python insta_checker.py
