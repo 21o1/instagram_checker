@@ -23,6 +23,7 @@
 
 
 //how to use?
+
 1-download a password list from 'password list' file
 
 2-put the password list in any path 
