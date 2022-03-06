@@ -109,7 +109,7 @@ version v2.0 with proxy list type [-]
 -----------------------------------------------------------------
             
             """)
-            sleep(600)
+            sleep(20)
         elif '"user":false' in Log.text:
             print(red + f"""
 
