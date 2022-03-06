@@ -20,3 +20,12 @@
 4-open cmd
 
 5-python insta_checker.py
+
+
+//how to use?
+1-download a password list from 'password list' file
+2-put the password list in any path 
+3-excute the tool 
+4-enter the path of the password list
+5-enter the user 
+6-enjoy hunting !
